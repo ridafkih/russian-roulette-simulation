@@ -1,5 +1,5 @@
 # Russian Roulette Simulation
-### A simple simulation of the game "Russian Roulette," in order to prove that the odds of winning are 50/50 if the game is played between two players. 
+### I recently learned some people don't think the odds of winning Russian Roulette are 50/50, so I made a program to prove it. 
 
 ___ 
 
