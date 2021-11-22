@@ -1,5 +1,5 @@
 # Russian Roulette Simulation
-### I recently learned some people don't think the odds of winning Russian Roulette are 50/50, so I made a program to prove it. 
+### I recently learned some people don't think the odds of winning Russian Roulette are split evenly between all players, so I made a program to prove it. 
 
 ___ 
 
