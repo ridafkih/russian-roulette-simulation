@@ -10,9 +10,9 @@ The program uses the Fisher-Yates algorithm to randomize an array representing t
 
 The index of the bullet in the chamber determines the winner, if it is even, player one wins, odds, player two wins. 
 
-An array after the fact may look something like... `[false, false, true, false, false, false]`, the index of the bullet in the chamber in this instance is `2`, representing the third position. 
+An array after the fact may look something like... `[false, false, true, false, false, false]`, the index of the bullet in the chamber in this instance is `2`, representing the third position. While generating a random number between 0, and the number of chambers would be equally valid of a solution, since this script was written to prove the odds, I went for a more figurative approach. 
 
-For example, if the bullet is determined to be in the first chamber, index `0`, player one will be the winner. 
+As an example, if the bullet is determined to be in the first chamber, index `0`, player one will be the winner. 
 
 Furthermore, if the bullet is determined to be in the fourth chamber, index `3`, player two will be the winner. 
 
