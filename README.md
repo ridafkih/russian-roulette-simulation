@@ -4,7 +4,7 @@
 ___ 
 
 The program runs 1,000,000 instances of the game, and allows a variable amount of chambers, and bullets. Currently set to 6 chambers, and 1 bullet. 
-Note that this fact is irrelevant in the context of the odds of which player wins as long as the `BULLETS_COUNT` variable is `> 1`. 
+Note that this fact is irrelevant in the context of the odds of which player wins as long as the `BULLETS_COUNT` variable is `> 1` and the number of chambers is even.
 
 The program uses the Fisher-Yates algorithm to randomize an array representing the chambers, `false` for empty, `true` for loaded. 
 
