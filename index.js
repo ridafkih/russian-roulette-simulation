@@ -42,6 +42,6 @@ const playerTwoWins = games.length - playerOneWins;
 
 const estimatedOdds = `${Math.round(
   (playerOneWins / gamesPlayed) * 100
-)} / ${Math.round((playerOneWins / gamesPlayed) * 100)}`;
+)} / ${Math.round((playerTwoWins / gamesPlayed) * 100)}`;
 
 console.table({ gamesPlayed, playerOneWins, playerTwoWins, estimatedOdds });
